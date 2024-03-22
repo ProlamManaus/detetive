@@ -9,21 +9,23 @@ body {
   display: grid;
   justify-content: center;
 
-  padding: 30px 104px;
+  padding: 12px 72px;
 }
 
 header h1 {
   font-weight: 900;
-  font-size: 56px;
+  font-size: 38px;
   line-height: 72px;
   color: #02799d;
+  text-align: center;
 }
 
 header p {
   font-weight: 600;
-  font-size: 32px;
+  font-size: 28px;
   line-height: 40px;
   color: #e1e1e6;
+  text-align: center;
 }
 
 main {
